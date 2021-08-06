@@ -48,5 +48,6 @@ public class TwoPhaseTermination {
         termination.start();
         Thread.sleep(3500);
         termination.stop();
+//        System.arraycopy();
     }
 }
